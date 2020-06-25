@@ -13,11 +13,11 @@ Case Reference: https://forums.otterhub.org/viewtopic.php?f=53&t=41851
          *if using dropdown, fill in agent username.  
       
       
- 2. To ensure that the changes are not lost after an update, put the "CustomerUser" settings 
-    from the $OTRS_HOME/Kernel/Config/Defaults.pm 
-    into the $OTRS_HOME/Kernel/Config.pm.
+ 2. To ensure that the changes are not lost after an update, put the "CustomerUser" settings  
+    from the $OTRS_HOME/Kernel/Config/Defaults.pm  
+    into the $OTRS_HOME/Kernel/Config.pm.  
   
-   Enable dynamic field 'PIC' at customer user mapping ($OTRS_HOME/Kernel/Config.pm)
+   *Enable dynamic field 'PIC' at customer user mapping ($OTRS_HOME/Kernel/Config.pm)  
   
         [ 'DynamicField_PIC', undef, 'PIC', 0, 0, 'dynamic_field', undef, 0, undef, undef ],  
         
