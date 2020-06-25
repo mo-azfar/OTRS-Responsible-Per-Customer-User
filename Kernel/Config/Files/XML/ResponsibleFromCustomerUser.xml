@@ -7,7 +7,7 @@
             <Hash>
                 <Item Key="Module">Kernel::System::Ticket::Event::ResponsibleFromCustomerUser</Item>
                 <Item Key="Event">(TicketCreate|TicketCustomerUpdate)</Item>
-				        <Item Key="CustomerUserResponsibleField">PIC</Item>
+	        <Item Key="CustomerUserResponsibleField">PIC</Item>
             </Hash>
         </Value>
 </Setting>
