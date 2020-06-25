@@ -1,6 +1,6 @@
-# OTRS-Responsible-Per-Customer-User  
+# OTRS-Ticket-Responsible-From-Customer-User 
 - Build for OTRS CE v6.0  
-- Auto set ticket responsible user based on customer user profile  
+- Auto set ticket responsible based on customer user profile  
   
 Case Reference: https://forums.otterhub.org/viewtopic.php?f=53&t=41851  
 
