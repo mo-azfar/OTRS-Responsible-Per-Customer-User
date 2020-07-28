@@ -2,7 +2,7 @@
 - Build for OTRS CE v6.0  
 - Auto set ticket responsible based on customer user profile  
   
-Case Reference: https://forums.otterhub.org/viewtopic.php?f=53&t=41851  
+Case Reference: https://forums.otterhub.org/viewtopic.php?f=62&t=41852
 
 1. Create a new dynamic field  
          Name : PIC  
